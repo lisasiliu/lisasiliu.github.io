@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ### About Me
 I am an undergraduate student studying computer science at University of California, San Diego. I am a previous recipient of the TRELS scholarship and the HDSI undergraduate scholarship. My research interests are game AI, reinforcement learning, and general probabilistic reasoning.
 
