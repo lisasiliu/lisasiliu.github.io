@@ -13,14 +13,14 @@ You can email me at lil043@ucsd.edu
 
 ### Research Publications
 - A Gomoku Game-Testbed for Monte-Carlo Tree Search Algorithms [ paper ] \
-  Lisa Liu, Kelvin Yu \
-  _International Conference on Videogame Sciences and Arts, 2024_
-- CloudSheep System for WMT24 Discourse-Level Literary Translation [ [paper](https://www2.statmt.org/wmt24/pdf/2024.wmt-1.95.pdf) ] [ [poster](lisasiliu.github.io/files/hdsi_poster.pdf) ] \
-  Lisa Liu, Ryan Liu, Angela Tsai, and Jingbo Shang \
-  _EMNLP (Conference on Empirical Methods in Natural Language Processing), 2024_ 
+  - Lisa Liu, Kelvin Yu \
+  - _International Conference on Videogame Sciences and Arts, 2024_
+- CloudSheep System for WMT24 Discourse-Level Literary Translation [ [paper](https://www2.statmt.org/wmt24/pdf/2024.wmt-1.95.pdf) ] [ [poster](files/hdsi_poster.pdf) ] \
+  - Lisa Liu, Ryan Liu, Angela Tsai, and Jingbo Shang \
+  - _EMNLP (Conference on Empirical Methods in Natural Language Processing), 2024_ 
 - A Privacy-Preserving and Overhead-Free Protocol for Direct Donations to People Impacted by COVID-19 Lock-downs [ [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9342887) ] \
-  Lisa Liu, Chang Liu \
-  _IEEE GHTC (Global Humanitarian Technology Conference), 2020_ 
+  - Lisa Liu, Chang Liu \
+  - _IEEE GHTC (Global Humanitarian Technology Conference), 2020_ 
 
 ### Education
 - UC San Diego
