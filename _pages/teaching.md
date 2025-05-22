@@ -5,10 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- **Tutor** (Winter 2025)
+  - CSE 101 - Design and Analysis of Algorithms, Prof. Barna Saha
 - **Tutor** (Fall 2024)
   - CSE 8A - Introduction to Programming and Computational Problem-Solving I, Prof. Gerald Soosairaj
 - **Tutor** (Summer Session II 2024)
-  - CSE 20 - Discrete Mathematics, Prof. Jor-el Briones
+  - CSE 21 - Mathematics for Algorithms and Systems, Prof. Jor-el Briones
 - **Tutor** (Summer Session I 2024)
   - CSE 20 - Discrete Mathematics, Prof. Jor-el Briones
 - **Tutor** (Spring 2024)
