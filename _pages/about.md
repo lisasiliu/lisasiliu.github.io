@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ### About Me
-I am an undergraduate student studying computer science at University of California, San Diego. I am a previous recipient of the TRELS scholarship and the HDSI undergraduate scholarship. My research interests are game AI, reinforcement learning, and general probabilistic reasoning.
+I am an incoming masters student studying computer science at New York University. I was previously an undergraduate student studying computer science at University of California, San Diego. I am a previous recipient of the TRELS scholarship and the HDSI undergraduate scholarship. My research interests are game AI, reinforcement learning, and general probabilistic reasoning.
 
 You can email me at lil043@ucsd.edu !! ⸜(｡˃ ᵕ ˂ )⸝♡
 
